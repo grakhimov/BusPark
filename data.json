@@ -1,0 +1,230 @@
+{
+  "items": {
+    "drivers": {
+      "driver": [
+        {
+          "class": "D",
+          "experience": "1",
+          "name": "Denis",
+          "surname": "Sergeev"
+        },
+        {
+          "class": "D",
+          "experience": "11",
+          "name": "Kirill",
+          "surname": "Smirnov"
+        },
+        {
+          "class": "BCD",
+          "experience": "6",
+          "name": "voditel",
+          "surname": "dsa"
+        }
+      ]
+    },
+    "buses": {
+      "bus": [
+        {
+          "busRouteNumber": "8",
+          "governmentNumber": "P483XO"
+        },
+        {
+          "busRouteNumber": "3",
+          "governmentNumber": "P139BK"
+        },
+        {
+          "busRouteNumber": "1",
+          "governmentNumber": "C382ET"
+        },
+        {
+          "busRouteNumber": "3",
+          "governmentNumber": "E414KB"
+        },
+        {
+          "busRouteNumber": "13",
+          "governmentNumber": "C371OC"
+        },
+        {
+          "busRouteNumber": "5",
+          "governmentNumber": "E009MO"
+        },
+        {
+          "busRouteNumber": "13",
+          "governmentNumber": "Y789YP"
+        },
+        {
+          "busRouteNumber": "21",
+          "governmentNumber": "X467ME"
+        },
+        {
+          "busRouteNumber": "3",
+          "governmentNumber": "A168YK"
+        },
+        {
+          "busRouteNumber": "13",
+          "governmentNumber": "C385BT"
+        },
+        {
+          "busRouteNumber": "2",
+          "governmentNumber": "C657XP"
+        },
+        {
+          "busRouteNumber": "2",
+          "governmentNumber": "B811AA"
+        },
+        {
+          "busRouteNumber": "2",
+          "governmentNumber": "M059TY"
+        },
+        {
+          "busRouteNumber": "5",
+          "governmentNumber": "E176EE"
+        },
+        {
+          "busRouteNumber": "3",
+          "governmentNumber": "B873KY"
+        },
+        {
+          "busRouteNumber": "21",
+          "governmentNumber": "X239ME"
+        },
+        {
+          "busRouteNumber": "3",
+          "governmentNumber": "K475KT"
+        },
+        {
+          "busRouteNumber": "5",
+          "governmentNumber": "Y399MB"
+        },
+        {
+          "busRouteNumber": "2",
+          "governmentNumber": "H903MA"
+        },
+        {
+          "busRouteNumber": "8",
+          "governmentNumber": "X198EM"
+        }
+      ]
+    },
+    "routes": {
+      "route": [
+        {
+          "busRouteNumber": "2",
+          "endTime": "23:22",
+          "startTime": "05:24"
+        },
+        {
+          "busRouteNumber": "3",
+          "endTime": "23:12",
+          "startTime": "05:17"
+        },
+        {
+          "busRouteNumber": "2",
+          "endTime": "23:21",
+          "startTime": "05:51"
+        },
+        {
+          "busRouteNumber": "13",
+          "endTime": "23:10",
+          "startTime": "05:55"
+        },
+        {
+          "busRouteNumber": "2",
+          "endTime": "23:51",
+          "startTime": "05:29"
+        },
+        {
+          "busRouteNumber": "3",
+          "endTime": "23:32",
+          "startTime": "05:32"
+        },
+        {
+          "busRouteNumber": "3",
+          "endTime": "23:35",
+          "startTime": "05:53"
+        },
+        {
+          "busRouteNumber": "21",
+          "endTime": "23:46",
+          "startTime": "05:03"
+        },
+        {
+          "busRouteNumber": "3",
+          "endTime": "23:57",
+          "startTime": "05:23"
+        },
+        {
+          "busRouteNumber": "1",
+          "endTime": "23:10",
+          "startTime": "05:45"
+        },
+        {
+          "busRouteNumber": "8",
+          "endTime": "23:47",
+          "startTime": "05:37"
+        },
+        {
+          "busRouteNumber": "3",
+          "endTime": "23:27",
+          "startTime": "05:12"
+        },
+        {
+          "busRouteNumber": "13",
+          "endTime": "23:01",
+          "startTime": "05:13"
+        },
+        {
+          "busRouteNumber": "8",
+          "endTime": "23:32",
+          "startTime": "05:02"
+        },
+        {
+          "busRouteNumber": "2",
+          "endTime": "23:01",
+          "startTime": "05:45"
+        },
+        {
+          "busRouteNumber": "13",
+          "endTime": "23:39",
+          "startTime": "05:21"
+        },
+        {
+          "busRouteNumber": "21",
+          "endTime": "23:10",
+          "startTime": "05:17"
+        },
+        {
+          "busRouteNumber": "8",
+          "endTime": "23:45",
+          "startTime": "05:50"
+        },
+        {
+          "busRouteNumber": "21",
+          "endTime": "23:39",
+          "startTime": "05:16"
+        },
+        {
+          "busRouteNumber": "21",
+          "endTime": "23:20",
+          "startTime": "05:21"
+        }
+      ]
+    },
+    "violations": {
+      "violation": [
+        {
+          "violatedDriver": "asd dsa",
+          "violatedRouteNumber": "3",
+          "violationDate": "2018-04-07",
+          "violationDescription": "qqqqqqqq"
+        },
+        {
+          "violatedDriver": "Kirill Smirnov",
+          "violatedRouteNumber": "3",
+          "violationDate": "2018-04-17",
+          "violationDescription": "dfgfgfgdag"
+        }
+      ]
+    }
+  }
+}
